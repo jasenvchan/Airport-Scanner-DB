@@ -1,0 +1,1 @@
+UserId,OriginalId,ChallengeId,Date,SessionId,SessionLength,SessionLocalTime,Tier,Day,NumItems,NumCorrect,NumWrong,TotalTime,IllegalItemProbability,ItemId,IsIllegal,IsCorrect,StartTime,WaitTime,DragTime,ReleaseTime,DoneTime,TotalTimePerItem

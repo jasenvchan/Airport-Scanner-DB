@@ -1,0 +1,3 @@
+SystemVersion|VARCHAR(75)|UNIQUE
+SystemVersionId|INT|AUTO_INCREMENT
+PRIMARY KEY|(SystemVersionId)
